@@ -1,0 +1,25 @@
+PODS:
+  - PhoneNumberKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 2.1.0)
+    - PhoneNumberKit/UIKit (= 2.1.0)
+  - PhoneNumberKit/PhoneNumberKitCore (2.1.0)
+  - PhoneNumberKit/UIKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - PhoneNumberKit (~> 2.1)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PhoneNumberKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  PhoneNumberKit: 62003f40ff75315fd3738286558bc365365ac222
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 122f9344e7c5b1d492307bf32425349dc757a055
+
+COCOAPODS: 1.5.0
